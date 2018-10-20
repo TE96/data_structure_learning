@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuwuchen/Documents/c++/DataStructure/CircList.h
+iostream
+-
+LinearList.h
+/home/fuwuchen/Documents/c++/DataStructure/LinearList.h
+
+/home/fuwuchen/Documents/c++/DataStructure/LinearList.h
+
+/home/fuwuchen/Documents/c++/DataStructure/Queue.h
+
+/home/fuwuchen/Documents/c++/DataStructure/Stack.h
+
+/home/fuwuchen/Documents/c++/DataStructure/main.cpp
+iostream
+-
+CircList.h
+/home/fuwuchen/Documents/c++/DataStructure/CircList.h
+cstring
+-
+stdio.h
+-
+Stack.h
+/home/fuwuchen/Documents/c++/DataStructure/Stack.h
+Queue.h
+/home/fuwuchen/Documents/c++/DataStructure/Queue.h
+

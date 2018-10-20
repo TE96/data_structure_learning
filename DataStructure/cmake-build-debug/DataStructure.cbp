@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructure">
+				<Option output="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructure/fast">
+				<Option output="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fuwuchen/Documents/c++/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/AVLTree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/BST.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/BinaryTree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Calculator.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/CircList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/DataList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/DblList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Deque.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Graph.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Graphlnk.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Graphmtx.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/HuffmanTree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/LinearList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/LinkedDeque.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/LinkedList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/LinkedQueue.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/LinkedStack.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/MinHeap.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/MinSpanTree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/PQueue.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Queue.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SearchList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SeqDeque.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SeqList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SeqQueue.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SeqStack.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/SortedList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Stack.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/StaticList.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/ThreadTree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/Tree.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/UFSets.h">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/main.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/home/fuwuchen/Documents/c++/DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

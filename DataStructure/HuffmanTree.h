@@ -1,0 +1,10 @@
+//
+// Created by fuwuchen on 18-10-16.
+//
+
+#ifndef DATASTRUCTURE_HUFFMANTREE_H
+#define DATASTRUCTURE_HUFFMANTREE_H
+
+
+
+#endif //DATASTRUCTURE_HUFFMANTREE_H
